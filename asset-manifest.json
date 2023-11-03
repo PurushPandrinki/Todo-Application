@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PurushPandrinki/Todo-Application/static/css/main.94999940.css",
+    "main.js": "/PurushPandrinki/Todo-Application/static/js/main.15306180.js",
+    "index.html": "/PurushPandrinki/Todo-Application/index.html",
+    "main.94999940.css.map": "/PurushPandrinki/Todo-Application/static/css/main.94999940.css.map",
+    "main.15306180.js.map": "/PurushPandrinki/Todo-Application/static/js/main.15306180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94999940.css",
+    "static/js/main.15306180.js"
+  ]
+}
